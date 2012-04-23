@@ -68,7 +68,6 @@ style "theme-default"
 	gradients			= FALSE
 	roundness 			= 0
         animation 			= TRUE
-    hilight_ratio 		= 0.909090
   }
 }
 
