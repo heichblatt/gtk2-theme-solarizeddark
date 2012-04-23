@@ -2,6 +2,10 @@
 # Solarized by Ethan Schoonver http://ethanschoonover.com/solarized
 # ~/usr/share/themes/SolarizedLight/gtk-2.0/gtkrc
 
+gtk-icon-theme-name = "GNOME"
+gtk-theme-name = "SolarizedLight"
+gtk-font-name = "Droid Sans 12"
+
 gtk_color_scheme = "fg_color:#002b36\nbg_color:#fdf6e3\nbase_color:#eee8d5\ntext_color:#002b36\nselected_bg_color:#93a1a1\nselected_fg_color:#002b36"
 
 gtk-button-images = 1
