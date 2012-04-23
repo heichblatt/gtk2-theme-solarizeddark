@@ -1,7 +1,7 @@
-gtk2-theme-solarizedlight
+gtk2-theme-solarizeddark
 =========================
 
-A GTK2 theme based on the light variant of the [Solarized colorscheme] and [Murrina333].
+A GTK2 theme based on the dark variant of the [Solarized colorscheme] and [Murrina333].
 
 I found this in a [Pastebin] without any information on the author. If you know who started this, please let me know.
 
