@@ -69,7 +69,6 @@ style "theme-default"
 	menuitemstyle 	 	= 0
 	listviewheaderstyle = 0
 	listviewstyle 		= 1
-	gradients			= FALSE
 	roundness 			= 0
         animation 			= TRUE
   }
