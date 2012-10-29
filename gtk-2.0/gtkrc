@@ -4,7 +4,6 @@
 
 gtk-icon-theme-name = "GNOME"
 gtk-theme-name = "SolarizedDark"
-gtk-font-name = "Droid Sans 12"
 
 gtk_color_scheme = "fg_color:#fdf6e3\nbg_color:#002b36\nbase_color:#073642\ntext_color:#fdf6e3\nselected_bg_color:#586e75\nselected_fg_color:#fdf6e3"
 
